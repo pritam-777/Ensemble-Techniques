@@ -6,6 +6,6 @@
 ## Extra-trees classifier.
 ## Extra-trees regressor.
 ## Random forest classifier.
-##vRandom forest regressor.
-##bVotingClassifier
+## Random forest regressor.
+## VotingClassifier
 
